@@ -66,17 +66,6 @@ Medical-Diagnosis/
 ├── medical_diagnoser.ipynb
 ├── medical_data.csv
 ├── README.md
-├── requirements.txt
-│
-├── models/
-│      medical_diagnoser.keras
-│
-├── images/
-│      architecture.png
-│      prediction.png
-│
-└── outputs/
-       predictions.csv
 ```
 
 ---
